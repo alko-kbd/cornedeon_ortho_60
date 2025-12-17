@@ -14,4 +14,4 @@ Hardware Supported: Handwired
 
 Copy all files to directory: vial-qmk/keyboards/alko/cornedeon_ortho_60/
 
->qmk compile -kb alko/cornedeon_ortho_60 -km vial
+qmk compile -kb alko/cornedeon_ortho_60 -km vial
